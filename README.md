@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a backend server built with Node.js and Express, designed to handle user authentication, document management, and email verification. It utilizes TypeScript for type safety and Sequelize as an ORM for database interactions. The server is structured to handle asynchronous operations gracefully, ensuring a smooth user experience.
+This project is a backend server built with Node.js and Express, designed to handle user authentication, document management, document edit with multiple users in real-time, public and private documents,and email verification. It utilizes TypeScript for type safety and Sequelize as an ORM for database interactions. The server is structured to handle asynchronous operations gracefully, ensuring a smooth user experience.
 
 ## Features
 
